@@ -1,11 +1,11 @@
 {
-    "name": "doxadoxa/phplitecoinaddress",
+    "name": "acharsoft/phplitecoinaddress",
     "license": "MIT",
     "version" : "0.1.0",
     "authors": [
         {
-            "name": "Taras Dovgal",
-            "email": "td@hrom.fund"
+            "name": "Mobin Poursalami",
+            "email": "mobinpou@gmail.com"
         }
     ],
     "require": {
